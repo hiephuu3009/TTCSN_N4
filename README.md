@@ -1,4 +1,5 @@
-Học Phần: Thực Tập Cơ Sở Ngành
+Học Phần: Thực Tập Cơ Sở Ngành    (Hoàng đã vào rồi heheeheheh )
+
 
 GV Hướng Dẫn: Nguyễn Bá Nghiễn
 
