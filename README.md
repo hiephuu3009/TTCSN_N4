@@ -1,4 +1,4 @@
-Học Phần: Thực Tập Cơ Sở Ngành    (Hoàng đã vào rồi heheeheheh )
+Học Phần: Thực Tập Cơ Sở Ngành    
 
 
 GV Hướng Dẫn: Nguyễn Bá Nghiễn
@@ -12,7 +12,7 @@ Nhóm: 4
 4. Nguyễn Tiến Quyền
 5. Nguyễn Hoàng Anh
 
- Dự án: Xây dựng website giới thiệu cá nhân và CV trực tuyến
+ Dự án: Xây dựng hệ thống website hỗ trợ tìm kiếm và tuyển dụng việc làm
 
  Ngôn ngữ sử dụng:
 - HTML
